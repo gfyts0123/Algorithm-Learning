@@ -22,3 +22,7 @@
 
 [1.python生成器](python生成器.md)
 [2.python-协程asyncio](python-协程asyncio.md)
+
+### 小知识串烧
+
+[小知识串烧](小知识串烧.md)
