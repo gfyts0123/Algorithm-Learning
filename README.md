@@ -17,12 +17,3 @@
 ### 梯度提升决策树
 
 [1. GBDT直观理解](GBDT直观理解.md)
-
-### python基础
-
-[1.python生成器](python生成器.md)
-[2.python-协程asyncio](python-协程asyncio.md)
-
-### 小知识串烧
-
-[小知识串烧](小知识串烧.md)
